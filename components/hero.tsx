@@ -50,9 +50,10 @@ export default function Hero() {
               dark:text-gray-300
             "
           >
-            Desarrollador enfocado en aplicaciones web con React, TypeScript,
-            Node.js, C#, ASP.NET y MySQL. Me gusta crear interfaces modernas,
-            funcionales y con una excelente experiencia de usuario.
+            Desarrollador fullstack con experiencia en la construcción de aplicaciones web utilizando React, TypeScript y Node.js en el frontend, 
+            junto con backend en Flask, C# y ASP.NET. Tengo experiencia en el diseño e implementación de bases de datos en MySQL, 
+            integración de APIs y desarrollo de interfaces dinámicas orientadas a rendimiento y experiencia de usuario. 
+            Me enfoco en crear soluciones funcionales, escalables y bien estructuradas.
           </p>
 
           {/* Tech Stack */}
